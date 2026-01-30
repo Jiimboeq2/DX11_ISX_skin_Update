@@ -1,4 +1,4 @@
-Updating to Custom Skins for ISXOgre
+HOWTO
 
 Download the custom skin ZIP file.
 
