@@ -1,9 +1,20 @@
-# DX11_ISX_skin_Update
-update to custom skins for isxOgre
+Updating to Custom Skins for ISXOgre
 
-empty zipped contents into C:\Program Files (x86)\InnerSpace\Interface\Skins\EQ2OgreGreen
+Download the custom skin ZIP file.
 
-attaching my ignore_patchlist as well for example to stop skin from defaulting back to standard
+Extract the contents of the ZIP.
+Do not leave the files inside a nested folder.
 
-ignore list
+Copy the extracted files into:
+
+C:\Program Files (x86)\InnerSpace\Interface\Skins\EQ2OgreGreen
+
+
+To prevent the skin from reverting to the default, include an ignore_patchlist file so updates do not overwrite the custom skin.
+
+Place or update the ignore list in:
+
 C:\Program Files (x86)\InnerSpace\Scripts\Extensions
+
+
+Restart Inner Space or ISXOgre so the custom skin loads and stays in place.
